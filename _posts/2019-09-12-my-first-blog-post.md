@@ -4,4 +4,3 @@ The quick brown fox jumped over the lazy dog The quick brown fox jumped over the
 
 title: "YOUR-TITLE"
 -date: 2019-09-12
-
